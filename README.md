@@ -104,46 +104,15 @@ Provides ways to connect with me for professional opportunities and collaboratio
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🎮 Tic-Tac-Toe
+### 🌾 KRISHGYAN
 
-A browser-based Tic-Tac-Toe game developed using HTML, CSS, and JavaScript.
-
-**Technologies:**
-
-* HTML5
-* CSS3
-* JavaScript
-
-🔗 **GitHub:**
-https://github.com/Abhay82K/TIC-TAC-TOE
-
----
+### 🎮 Trivia Battle Game
 
 ### 📋 Task Management System
 
-A full-stack CRUD-based Task Management System built using Flask, HTML, CSS, and MySQL.
-
-**Technologies:**
-
-* Python
-* Flask
-* HTML
-* CSS
-* MySQL
-
-**Features:**
-
-* Create tasks
-* View tasks
-* Update tasks
-* Delete tasks
-* Task status management
-* MySQL database integration
-* CRUD operations
-
----
+### ❌⭕ Tic-Tac-Toe
 
 ## 🏆 Achievements
 
@@ -303,8 +272,8 @@ The portfolio is designed to work across different screen sizes, including:
 ## 🔗 Connect With Me
 
 * 🐙 **GitHub:** https://github.com/Abhay82K
-* 💼 **LinkedIn:** `YOUR_LINKEDIN_URL`
-* 📧 **Email:** `YOUR_EMAIL`
+* 💼 **LinkedIn:** https://www.linkedin.com/in/abhaykr21/
+* 📧 **Email:** abhay21052005@gmail.com
 
 ---
 
