@@ -8,7 +8,7 @@ This portfolio is designed to showcase my **technical skills, projects, achievem
 
 ## 🌐 Live Portfolio
 
-🔗 **Live Website:** `YOUR_DEPLOYED_PORTFOLIO_URL`
+🔗 **Live Website:** https://abhaykr-portfolio.netlify.app/
 
 ---
 
