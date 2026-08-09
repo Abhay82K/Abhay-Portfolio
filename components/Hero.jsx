@@ -21,7 +21,7 @@ export default function Hero() {
                     View Projects
                 </a>
 
-                <a href="/resume.pdf" download className="px-6 py-3 border border-gray-500 rounded-lg hover:border-orange-500 hover:text-orange-400 transition">
+                <a href="/Abhay.pdf" download className="px-6 py-3 border border-gray-500 rounded-lg hover:border-orange-500 hover:text-orange-400 transition">
                     Download Resume
                 </a>
             </div>
